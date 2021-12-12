@@ -7,3 +7,4 @@
 - 🎮 2022 Goals: Become a better programmer | Read more books | Advance my career | Become a better father/husband/brother/son
 - 💬 Ask me about my cars extended warranty
 - 📫 How to reach me: [GuideHacking Profile](https://guidedhacking.com/members/n3tbi0s.274842/)
+- ☕ Wanna buy me a [coffee](buymeacoffee.com/n3tbi0s420)?
