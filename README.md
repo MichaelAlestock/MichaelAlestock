@@ -1,7 +1,7 @@
 ### 
 ![N3TBI0S](https://user-images.githubusercontent.com/75401074/144723908-8719af61-9441-4a5f-b0a4-1436dff6bd6a.png)
 ---
-- 🔭 I’m currently working on a multihack for Assault Cube
+- 🔭 I’m currently working on an internal cheat 
 - 🌱 I’m currently learning C++, reverse engineering & game-hacking
 - 📓 Keep up with my progress as I dive through C++, reverse engineering, and game-hacking with my [Learning Tracker](https://github.com/N3TBI0S/Learning-Tracker).
 - 🎮 2022 Goals: Become a better programmer | Read more books | Advance my career | Become a better father/husband/brother/son
