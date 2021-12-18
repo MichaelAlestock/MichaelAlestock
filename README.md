@@ -1,5 +1,6 @@
 ### 
-![N3TBI0S](https://user-images.githubusercontent.com/75401074/144723908-8719af61-9441-4a5f-b0a4-1436dff6bd6a.png)
+![N3TBI0S](https://user-images.githubusercontent.com/75401074/146643337-c2a5d114-ff6d-4bf4-8259-255a139ae0ac.png)
+
 ---
 - 🔭 I’m currently working on an internal cheat and several external trainers
 - 🌱 I’m currently learning C++, reverse engineering & game-hacking
