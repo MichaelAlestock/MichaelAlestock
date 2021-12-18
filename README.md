@@ -9,3 +9,6 @@
 - 💬 Ask me about my cars extended warranty
 - 📫 How to reach me: [GuideHacking Profile](https://guidedhacking.com/members/n3tbi0s.274842/)
 - ☕ Wanna buy me a [coffee](https://www.buymeacoffee.com/n3tbi0s420)?
+---
+[![n3tbi0s' GitHub stats](https://github-readme-stats.vercel.app/api?username=n3tbi0s&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
