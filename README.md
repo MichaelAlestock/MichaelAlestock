@@ -3,7 +3,7 @@
 
 ---
 - 🔭 I’m currently working on becoming a System Administrator
-- 🌱 I’m currently learning Python, PowerShell, and Windows Administration
+- 🌱 I’m currently learning C#, PowerShell, Windows & Cloud Administration
 - 📓 Keep up with my progress as I dive through programming, administration, and career development with my [Learning Tracker](https://github.com/N3TBI0S/Learning-Tracker).
 - 🎮 2022 Goals: Become a better programmer | Read more books | Advance my career | Never stop learning
 - 💬 Ask me about my cars extended warranty
