@@ -1,5 +1,5 @@
 ### 
-![animosity](https://user-images.githubusercontent.com/75401074/178846900-0877b013-e183-4d8b-8a3e-1b9d5a7989cb.png)
+![animosity](https://user-images.githubusercontent.com/75401074/178847372-8f552224-f08f-4178-b937-4fc64276510b.png)
 ---
 - 🔭 I’m currently working on becoming a System Administrator
 - 🌱 I’m currently learning C#, PowerShell, Windows & Cloud Administration
@@ -10,3 +10,4 @@
 - ☕ If you like what I do, maybe you can buy me a [coffee](https://www.buymeacoffee.com/n3tbi0s420)? 😔 👉👈
 ---
 [![n3tbi0s' GitHub stats](https://github-readme-stats.vercel.app/api?username=n3tbi0s&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
