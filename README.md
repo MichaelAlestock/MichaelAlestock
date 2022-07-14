@@ -9,5 +9,5 @@
 - 📫 How to reach me: You can't
 - ☕ If you like what I do, maybe you can buy me a [coffee](https://www.buymeacoffee.com/n3tbi0s420)? 😔 👉👈
 ---
-[![n3tbi0s' GitHub stats](https://github-readme-stats.vercel.app/api?username=n3tbi0s&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![anim0sity' GitHub stats](https://github-readme-stats.vercel.app/api?username=anim0sity&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
