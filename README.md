@@ -1,5 +1,5 @@
 ### 
-![cppmichael](https://user-images.githubusercontent.com/75401074/178847372-8f552224-f08f-4178-b937-4fc64276510b.png)
+![cpp_mike](https://user-images.githubusercontent.com/75401074/187087580-49606ad0-e29e-40ef-bfb6-fdaa0775b155.png)
 ---
 - 🔭 I’m currently working on becoming a DevOps Engineer
 - 🌱 I’m currently learning Full-Stack Web Development 
@@ -10,4 +10,3 @@
 - ☕ If you like what I do, maybe you can buy me a [coffee](https://www.buymeacoffee.com/n3tbi0s420)? 😔 👉👈
 ---
 [![cppmichael's GitHub stats](https://github-readme-stats.vercel.app/api?username=cppmichael&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
