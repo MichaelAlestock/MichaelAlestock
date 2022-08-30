@@ -1,5 +1,5 @@
 ### 
-![4x32GB](https://user-images.githubusercontent.com/75401074/187087580-49606ad0-e29e-40ef-bfb6-fdaa0775b155.png)
+![4x32GB](https://user-images.githubusercontent.com/75401074/187324608-27174c1b-2061-45e8-ba88-e1a374d0f551.png)
 ---
 - 🔭 I’m currently working on becoming a DevOps Engineer
 - 🌱 I’m currently learning Full-Stack Web Development 
