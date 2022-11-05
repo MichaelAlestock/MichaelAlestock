@@ -8,4 +8,6 @@
 - 💬 Ask me about my cars extended warranty
 - 📫 How to reach me: Be a debt collector
 ---
-[![4x32GB's GitHub stats](https://github-readme-stats.vercel.app/api?username=4x32GB&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![4x32GB's GitHub stats](https://github-readme-stats.vercel.app/api?username=4x32GB&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
+
+![This Is Fine Dog](https://pics.me.me/thumb_thisis-fine-merierjenerrr-net-this-is-fine-on-fire-dog-48994063.png)
