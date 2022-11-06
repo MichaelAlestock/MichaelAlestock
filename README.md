@@ -13,11 +13,3 @@
 > I have a dream today.
 
 > I have a dream that one day every valley shall be exalted, every hill and mountain shall be made low, the rough places will be made plain, and the crooked places will be made straight, and the glory of the Lord shall be revealed, and all flesh shall see it together.
-
----
-
-- 🔭 Currently working on becoming a Network Egineer
-
-- 🌱 Currently studying for my CCNA, learning Python, and working on being the best I can be
-
-- 🎮 2022 Goals: Become a better programmer | Read more books | Advance my career | Never stop learning
