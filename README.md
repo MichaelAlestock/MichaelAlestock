@@ -1,4 +1,4 @@
-![4x32GB](https://cdn.quotesgram.com/img/94/40/705215892-motivational-posters-funny-04.jpg)
+<img src="https://cdn.quotesgram.com/img/94/40/705215892-motivational-posters-funny-04.jpg" alt="PRACTICE MAKES PERFECTION!!!"></img>
 ---
 - 🔭 Currently working on becoming a Network Egineer
 - 🌱 Currently studying for my CCNA, learning Python, and working on being the best I can be
