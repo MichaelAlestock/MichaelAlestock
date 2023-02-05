@@ -78,7 +78,7 @@ I'm an IT Operations Specialist with aspirations of one day becoming a Network E
 
 <img title="Microsoft Azure Fundamentals" alt="Microsoft Azure Fundamentals" src="https://raw.githubusercontent.com/MichaelAlestock/assets/main/img/microsoft-certified-azure-fundamentals.png?token=GHSAT0AAAAAAB6LBJSJYAQ6NX5MPO5KLXCMY7ADMAA" />
 
-<img title="CompTIA A+" alt="CompTIA A+" src="https://raw.githubusercontent.com/MichaelAlestock/assets/main/img/comptia-a-ce-certification.1.png?token=GHSAT0AAAAAAB6LBJSIZO23VFEANFXODL3MY7ADGFA" />
+<img title="CompTIA A+" alt="CompTIA A+" src="https://raw.githubusercontent.com/MichaelAlestock/assets/main/img/comptia-a-ce-certification.1.png?token=GHSAT0AAAAAAB6LBJSJ7MX27JWPNVJ73SDEY7ADO4Q" />
 
 </p>
 
