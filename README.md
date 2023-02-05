@@ -1,5 +1,9 @@
 ## 👋 Howdy y'all! I'm Michael Alestock.
-![License: CC0-1.0](https://img.shields.io/badge/license-CC0-blue?style=for-the-badge&logo=appveyor) ![Last Commit](https://img.shields.io/github/last-commit/michaelalestock/michaelalestock.github.io?style=for-the-badge)
+
+![License: CC0-1.0](https://img.shields.io/badge/license-CC0-blue?style=for-the-badge&logo=appveyor) 
+![Last Commit](https://img.shields.io/github/last-commit/michaelalestock/michaelalestock.github.io?style=for-the-badge) 
+![Github Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)
 
 I'm an IT Operations Specialist with aspirations of one day becoming a Network Engineer I like automating things and making tasks easier for my team and the organization I'm with. Open-source is live, open-source is life :heart:.
 
@@ -76,19 +80,12 @@ I'm an IT Operations Specialist with aspirations of one day becoming a Network E
 
 <p align="center">
 
-<img title="Microsoft Azure Fundamentals" alt="Microsoft Azure Fundamentals" src="https://raw.githubusercontent.com/MichaelAlestock/assets/main/img/microsoft-certified-azure-fundamentals.png?token=GHSAT0AAAAAAB6LBJSJYAQ6NX5MPO5KLXCMY7ADMAA" />
+<img title="Microsoft Azure Fundamentals" alt="Microsoft Azure Fundamentals" src="https://github.com/MichaelAlestock/assets/blob/fab3e4a02b05677cb4527af6bb38a294b55af755/img/microsoft-certified-azure-fundamentals.png" />
 
-<img title="CompTIA A+" alt="CompTIA A+" src="https://raw.githubusercontent.com/MichaelAlestock/assets/main/img/comptia-a-ce-certification.1.png?token=GHSAT0AAAAAAB6LBJSJ7MX27JWPNVJ73SDEY7ADO4Q" />
+<img title="CompTIA A+" alt="CompTIA A+" src="https://github.com/MichaelAlestock/assets/blob/fab3e4a02b05677cb4527af6bb38a294b55af755/img/comptia-a-ce-certification.1.png" />
 
 </p>
 
 <hr>
 
-<p align="center">
-
-<i><q>there is only one way to eat an elephant: a bite at a time.</q></i>
-
-<a target="_blank" href="https://www.linkedin.com/in/michael-alestock"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a> <a target="_blank" href="https://michaelalestock.github.io"><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white"></img></a>
-
-</p>
-
+<p align="center">there is only one way to eat an elephant: a bite at a time.</p>
