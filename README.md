@@ -60,8 +60,6 @@ I'm an IT Operations Specialist with aspirations of one day becoming a Network E
 
 <img title="Firefox" alt="Firefox Browser" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
 
-<img title="Firefox" alt="Firefox Browser" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
-
 </p>
 
 <h3 align="center">Note-Taking</h3>
