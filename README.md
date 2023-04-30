@@ -1,9 +1,8 @@
 ## 👋 Howdy y'all! I'm Michael Alestock.
 
 ![License: CC0-1.0](https://img.shields.io/badge/license-CC0-blue?style=for-the-badge&logo=appveyor) 
-![Last Commit](https://img.shields.io/github/last-commit/michaelalestock/michaelalestock.github.io?style=for-the-badge) 
-![Github Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)
+[![Github Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://michaelalestock.github.io)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/michael-alestock)
 
 I'm an IT Operations Specialist with aspirations of one day becoming a Network Engineer I like automating things and making tasks easier for my team and the organization I'm with. Open-source is live, open-source is life :heart:.
 
