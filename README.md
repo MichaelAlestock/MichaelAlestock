@@ -16,30 +16,28 @@ I'm an IT Operations Specialist with aspirations of one day becoming a Network E
 
 <p align="center">
 
-<img title="Firefox" alt="Firefox Browser" src="https://img.icons8.com/color/48/null/powershell.png" />
+<img title="PowerShell" alt="PowerShell" src="https://img.icons8.com/color/48/null/powershell.png" />
 
-<img title="Firefox" alt="Firefox Browser" src="https://img.icons8.com/color/48/null/c-sharp-logo.png" />
+<img title="C-Sharp" alt="C-Sharp" src="https://img.icons8.com/color/48/null/c-sharp-logo.png" />
 
-<img title="Firefox" alt="Firefox Browser" src="https://img.icons8.com/color/48/null/bash.png" />
+<img title="Bash" alt="Bash" src="https://img.icons8.com/color/48/null/bash.png" />
 
-<img title="Firefox" alt="Firefox Browser" src="https://img.icons8.com/color/48/null/perl.png" />
+<img title="Perl" alt="Perl" src="https://img.icons8.com/color/48/null/perl.png" />
 
-<img title="Firefox" alt="Firefox Browser" src="https://img.icons8.com/color/48/null/python--v1.png" />
+<img title="Python" alt="Python" src="https://img.icons8.com/color/48/null/python--v1.png" />
 
-<img title="Firefox" alt="Firefox Browser" src="https://img.icons8.com/color/48/null/lua-language.png" />
+<img title="LUA" alt="LUA" src="https://img.icons8.com/color/48/null/lua-language.png" />
 </p>
 
 <h3 align="center">Operating Systems</h3>
 
 <p align="center">
 
-<img title="Firefox" alt="Firefox Browser" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img title="Windows" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
-<img title="Firefox" alt="Firefox Browser" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
+<img title="Apple" alt="Apple" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
 
-<img title="Firefox" alt="Firefox Browser" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-
-<img title="Firefox" alt="Firefox Browser" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
+<img title="Firefox" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
 </p>
 
@@ -55,9 +53,9 @@ I'm an IT Operations Specialist with aspirations of one day becoming a Network E
 
 <p align="center">
 
-<img title="Firefox" alt="Firefox Browser" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+<img title="PowerShell" alt="PowerShell" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 
-<img title="Firefox" alt="Firefox Browser" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
+<img title="Windows Terminal" alt="Windows Terminal" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
 
 </p>
 
@@ -65,10 +63,10 @@ I'm an IT Operations Specialist with aspirations of one day becoming a Network E
 
 <p align="center">
 
-<img title="Firefox" alt="Firefox Browser" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-
-<img title="Firefox" alt="Firefox Browser" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-
+<img title="VSCode" alt="VSCode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  
+<img title="Sublime Text" alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" />
+  
 </p>
 
 ## Current Achievements
