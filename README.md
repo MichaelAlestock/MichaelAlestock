@@ -1,7 +1,6 @@
 ## 👋 Howdy y'all! I'm Michael Alestock.
 
 [![Github Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://michaelalestock.github.io)
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/michael-alestock)
 
 I'm an IT Operations Specialist with aspirations of one day becoming a System Administrator. I like automating things and making tasks easier for my team and the organization I'm a big fan of open-source too, I miss the days of owning the thing I bought. :heart:
