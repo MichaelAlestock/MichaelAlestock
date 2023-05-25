@@ -5,7 +5,7 @@
 
 I'm an IT Operations Specialist with aspirations of one day becoming a System Administrator. I like automating things and making tasks easier for my team and the organization I'm a big fan of open-source too, I miss the days of owning the thing I bought. :heart:
 
-- :bulb: I'm interested in all things _Information Technology:_ **PowerShell, Automating, Windows Administration, Networking, Virtualization, Servers, etc...**
+- :bulb: I'm interested in all things _Information Technology:_ **PowerShell, Automation, Windows Administration, Networking, Virtualization, Servers, etc...**
 - 💬 Talk to me about Motorcycles :motorcycle:.
 - 🌱 I’m currently pursuing the **CompTIA Network+**, **CompTIA Security+**, **CompTIA Server+**, **Cisco Certified Networking Associate**.
 
