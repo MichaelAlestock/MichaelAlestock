@@ -1,13 +1,10 @@
 ## 👋 Howdy y'all! I'm Michael Alestock.
 
-[![Github Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://michaelalestock.github.io)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/michael-alestock)
+I'm an IT Operations Specialist with aspirations of one day becoming a System Administrator. I'm passionate about automation and Windows administration. I'm a big fan of open-source too, I miss when you used to own the thing you bought 💔. 
 
-I'm an IT Operations Specialist with aspirations of one day becoming a System Administrator. I like automating things and making tasks easier for my team and the organization I'm a big fan of open-source too, I miss the days of owning the thing I bought. :heart:
-
-- :bulb: I'm interested in all things _Information Technology:_ **PowerShell, Automation, Windows Administration, Networking, Virtualization, Servers, etc...**
+- :bulb: I'm interested in all things within _Windows Administration:_ **PowerShell, automation, Windows, networking, virtualization, servers, and people...**
 - 💬 Talk to me about Motorcycles :motorcycle:.
-- 🌱 I’m currently pursuing the **CompTIA Network+**, **CompTIA Security+**, **CompTIA Server+**, **Cisco Certified Networking Associate**.
+- 🌱 I’m currently pursuing the **CompTIA Network Infrastructure Professional**, **Microsoft 365 Certified: Endpoint Administrator Associate**, and **Cisco Certified Networking Associate**.
 
 ## Preferred Technologies
 
@@ -17,15 +14,12 @@ I'm an IT Operations Specialist with aspirations of one day becoming a System Ad
 
 <img title="PowerShell" alt="PowerShell" src="https://img.icons8.com/color/48/null/powershell.png" />
 
-<img title="C-Sharp" alt="C-Sharp" src="https://img.icons8.com/color/48/null/c-sharp-logo.png" />
-
 <img title="Bash" alt="Bash" src="https://img.icons8.com/color/48/null/bash.png" />
 
-<img title="Perl" alt="Perl" src="https://img.icons8.com/color/48/null/perl.png" />
+<img title="LUA" alt="LUA" src="https://img.icons8.com/color/48/null/lua-language.png" />
 
 <img title="Python" alt="Python" src="https://img.icons8.com/color/48/null/python--v1.png" />
 
-<img title="LUA" alt="LUA" src="https://img.icons8.com/color/48/null/lua-language.png" />
 </p>
 
 <h3 align="center">Operating Systems</h3>
@@ -64,7 +58,7 @@ I'm an IT Operations Specialist with aspirations of one day becoming a System Ad
 
 <img title="VSCode" alt="VSCode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   
-<img title="Sublime Text" alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" />
+<img title="Joplin" alt="Joplin" src="https://camo.githubusercontent.com/70a84e6038c93c28030858f089ea7bd886660dfddae7ad806f614cfbcb5b9d14/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4a6f706c696e26636f6c6f723d313037314433266c6f676f3d4a6f706c696e266c6f676f436f6c6f723d464646464646266c6162656c3d" />
   
 </p>
 
