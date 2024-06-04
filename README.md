@@ -14,10 +14,6 @@ I'm an IT Operations Specialist with aspirations of one day becoming a System Ad
 
 <img title="PowerShell" alt="PowerShell" src="https://img.icons8.com/color/48/null/powershell.png" />
 
-<img title="Bash" alt="Bash" src="https://img.icons8.com/color/48/null/bash.png" />
-
-<img title="LUA" alt="LUA" src="https://img.icons8.com/color/48/null/lua-language.png" />
-
 <img title="Python" alt="Python" src="https://img.icons8.com/color/48/null/python--v1.png" />
 
 </p>
@@ -57,9 +53,7 @@ I'm an IT Operations Specialist with aspirations of one day becoming a System Ad
 <p align="center">
 
 <img title="VSCode" alt="VSCode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  
-<img title="Joplin" alt="Joplin" src="https://camo.githubusercontent.com/70a84e6038c93c28030858f089ea7bd886660dfddae7ad806f614cfbcb5b9d14/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4a6f706c696e26636f6c6f723d313037314433266c6f676f3d4a6f706c696e266c6f676f436f6c6f723d464646464646266c6162656c3d" />
-  
+
 </p>
 
 ## Current Achievements
