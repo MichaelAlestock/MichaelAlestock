@@ -12,6 +12,8 @@ I'm an IT Operations Specialist with aspirations of one day becoming a System Ad
 
 <p align="center">
 
+<img title="CSharp" alt="CSharp" src="https://img.icons8.com/color/48/c-sharp-logo.png" />
+
 <img title="PowerShell" alt="PowerShell" src="https://img.icons8.com/color/48/null/powershell.png" />
 
 <img title="Python" alt="Python" src="https://img.icons8.com/color/48/null/python--v1.png" />
