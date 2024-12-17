@@ -1,4 +1,4 @@
-## 👋 Howdy y'all! I'm Michael Alestock.
+## 👋 Howdy y'all! I'm Anthony Alestock.
 
 I'm an IT Operations Specialist with aspirations of one day becoming a System Administrator. I'm passionate about automation and Windows administration. I'm a big fan of open-source too, I miss when you used to own the thing you bought 💔. 
 
