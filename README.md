@@ -1,10 +1,12 @@
-## 👋 Howdy y'all! I'm Anthony Alestock.
+## 👋 I'm Anthony Alestock.
 
-I'm an IT Operations Specialist with aspirations of one day becoming a System Administrator. I'm passionate about automation and Windows administration. I'm a big fan of open-source too, I miss when you used to own the thing you bought 💔. 
+I'm a Junior Network Administrator who has aspirations to become a Network Administrator. I'm passionate about Windows, automation, and end-user experiences. I'm also big fan of open-source too, I miss when you used to own the thing you bought 💔. 
 
-- :bulb: I'm interested in all things within _Windows Administration:_ **PowerShell, automation, Windows, networking, virtualization, servers, and people...**
-- 💬 Talk to me about Motorcycles :motorcycle:.
-- 🌱 I’m currently pursuing the **CompTIA Network Infrastructure Professional**, **Microsoft 365 Certified: Endpoint Administrator Associate**, and **Cisco Certified Networking Associate**.
+- :bulb: I'm interested in all things within _Windows Administration:_ **PowerShell, Microsoft, Windows, networking, virtualization, servers, and people (end-users deserve love too :cry:)...**
+- :cloud: Talk to me about Motorcycles.
+- :pencil2: I share my thoughts, ideas, and inexperience with PowerShell here [PowerShell Noob](https://powershell-noob.com)
+  
+> there is only one way to eat an elephant: a bite at a time.
 
 ## Preferred Technologies
 
@@ -57,19 +59,3 @@ I'm an IT Operations Specialist with aspirations of one day becoming a System Ad
 <img title="VSCode" alt="VSCode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
 </p>
-
-## Current Achievements
-
-<h3 align="center">Certifications</h3>
-
-<p align="center">
-
-<img title="Microsoft Azure Fundamentals" alt="Microsoft Azure Fundamentals" src="https://github.com/MichaelAlestock/assets/blob/fab3e4a02b05677cb4527af6bb38a294b55af755/img/microsoft-certified-azure-fundamentals.png" />
-
-<img title="CompTIA A+" alt="CompTIA A+" src="https://github.com/MichaelAlestock/assets/blob/fab3e4a02b05677cb4527af6bb38a294b55af755/img/comptia-a-ce-certification.1.png" />
-
-</p>
-
-<hr>
-
-<p align="center">there is only one way to eat an elephant: a bite at a time.</p>
